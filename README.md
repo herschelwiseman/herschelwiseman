@@ -14,8 +14,8 @@ A React App written in Typescript where we extended existing functionality to ad
 A Python app that is currently a work in progress.  I use negamax with various improvements to it such as alpha beta pruning.  I'm planning on writing a chess library in Kotlin and then rewriting the AI in it.
 
 ### Various other projects
-I have a lot of projects from classes and side projects that are not currently uploaded here but will be eventually so stay tuned.
-
+I have a lot of projects from classes and side projects that are not currently uploaded here but will be eventually so stay tuned. (Unix Shell, Fuse File System, Solitare, Floodit, Animator (using Java's Swing library).
+I will be releasing two Android apps from CS4520 at the end of June once the class is completed.
 
 
 
